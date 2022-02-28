@@ -1,0 +1,26 @@
+[{
+
+  "type": "Ecobank",
+  "money":"2000",
+  "date": "12-12-2021",
+  "logo": "R.drawble.ecobanklogo"
+},
+  {
+    "type": "MoMo",
+    "money":"2000",
+    "date": "12-01-2022",
+    "logo": "R.drawble.mtnlogo"
+  },
+  {
+    "type": "MoMo",
+    "money":"2000",
+    "date": "12-01-2022",
+    "logo": "R.drawble.mtnlogo"
+  },
+  {
+  "type": "MoMo",
+  "money":"2000",
+  "date": "12-01-2022",
+  "logo": "R.drawble.mtnlogo"
+}
+]

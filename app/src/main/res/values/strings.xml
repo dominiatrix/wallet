@@ -1,0 +1,17 @@
+<resources>
+    <string-array name = "TypeOfAccount">
+        <item>
+            UBA
+        </item>
+        <item>
+            ECOBANK
+        </item>
+        <item>
+            BOA
+        </item>
+        <item>
+            MoMo
+        </item>
+    </string-array>
+    <string name="app_name">Wallet Final</string>
+</resources>
